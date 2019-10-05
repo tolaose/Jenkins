@@ -5,7 +5,7 @@ resource "aws_instance" "example" {
  
   tags = {
      
-        Name = "Lab2"
+        Name = "Lab1"
   }
 }
 
